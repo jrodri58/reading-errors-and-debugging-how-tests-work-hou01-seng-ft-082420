@@ -1,1 +1,1 @@
-first_number = "hi"
+first_number = 4
